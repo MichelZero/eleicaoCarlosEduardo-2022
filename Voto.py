@@ -1,3 +1,13 @@
+# Prova de POO
+# Equipe: [
+# Maria Clara Lourenço de Lira,
+# Maria Karoliny Oliveira da Costa,
+# Carlos Eduardo OLiveira Lopes,
+# Lucas Nóbrega,
+# Lucas Mateus Macedo Amorim,
+# Isadora Pereira Maciel
+# ]
+
 import datetime
 
 class Voto:
